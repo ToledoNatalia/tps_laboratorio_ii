@@ -1,0 +1,70 @@
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748600
+PRODUCTO: The Divine Comedy, Dante Alighieri
+CODIGO: 1005
+IMPORTE: $1700
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748600
+PRODUCTO: In Search of Lost Time, Marcel Proust
+CODIGO: 1000
+IMPORTE: $1500
+
+---------------FACTURA---------------
+NOMBRE: Natalia Toledo
+DNI: 33748600
+PRODUCTO: Don Quixote, Miguel de Cervantes
+CODIGO: 1002
+IMPORTE: $3500
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748600
+PRODUCTO: In Search of Lost Time, Marcel Proust
+CODIGO: 1000
+IMPORTE: $1500
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33746660
+PRODUCTO: lalalal, jajaja
+CODIGO: 6565
+IMPORTE: $123
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33746660
+PRODUCTO: lalalal, jajaja
+CODIGO: 6565
+IMPORTE: $123
+
+---------------FACTURA---------------
+NOMBRE: natalia toleso
+DNI: 33748660
+PRODUCTO: lalal, nananan
+CODIGO: 1234
+IMPORTE: $120
+
+---------------FACTURA---------------
+NOMBRE: nataiak jskjksjk
+DNI: 33748660
+PRODUCTO: kajsj, kkslk
+CODIGO: 2108
+IMPORTE: $120
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748660
+PRODUCTO: lalala, lalal
+CODIGO: 2108
+IMPORTE: $5656
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748660
+PRODUCTO: lalala, lalal
+CODIGO: 2108
+IMPORTE: $5656
+

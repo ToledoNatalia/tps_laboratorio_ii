@@ -1,0 +1,42 @@
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748600
+PRODUCTO: The Divine Comedy, Dante Alighieri
+CODIGO: 1005
+IMPORTE: $1700
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748600
+PRODUCTO: In Search of Lost Time, Marcel Proust
+CODIGO: 1000
+IMPORTE: $1500
+
+---------------FACTURA---------------
+NOMBRE: Natalia Toledo
+DNI: 33748600
+PRODUCTO: Don Quixote, Miguel de Cervantes
+CODIGO: 1002
+IMPORTE: $3500
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748600
+PRODUCTO: In Search of Lost Time, Marcel Proust
+CODIGO: 1000
+IMPORTE: $1500
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748600
+PRODUCTO: Ulysses, James Joyce
+CODIGO: 1001
+IMPORTE: $1800
+
+---------------FACTURA---------------
+NOMBRE: natalia toledo
+DNI: 33748600
+PRODUCTO: Emma, Jane Austen
+CODIGO: 1028
+IMPORTE: $1000
+
